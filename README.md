@@ -1,7 +1,6 @@
 # Plant Disease Classification using CNN
 
-![Sample Prediction](https://github.com/user-attachments/assets/a548fb8d-2977-47ac-925a-8290b1bc64a0)
-
+![GYwwO8ObQAAH0oL](https://github.com/user-attachments/assets/197a5aed-1a48-41fd-aa53-92d215106257)
 
 ## Overview
 
